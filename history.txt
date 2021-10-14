@@ -1,0 +1,33 @@
+    1  ls
+    2  cd Documents
+    3  ls
+    4  cd ../
+    5  cd home
+    6  cd /home
+    7  cd Documents/Github
+    8  ls
+    9  cd /home
+   10  cd home
+   11  cd ../..
+   12  exit
+   13  git config --list
+   14  code .
+   15  ls
+   16  git config --global init.defaultBranch main
+   17  [path]/etc/gitconfig
+   18  [path]/etc/gitconfig --system
+   19  exit
+   20  ls
+   21  cd git_basic_exercises/
+   22  git status
+   23  git commit -m "added initial flavours"
+   24  git log
+   25  cat milkshakes.md 
+   26  git checkout main
+   27  git log
+   28  git branch history
+   29  git branch 
+   30  git checkout history
+   31  git log
+   32  git branch 
+   33  history > history.txt
